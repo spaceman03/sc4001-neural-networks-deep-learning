@@ -22,3 +22,10 @@ Sentiment Classification | DistilGPT-2 | 88.80%
 Sentiment Classification | TinyBert | 83.60%
 Protein Structure Prediction (Q3) | Seq2Seq | 69.36%
 Protein Structure Prediction (Q8) | Seq2Seq | 56.90%
+
+### Transformer
+Distribution of Average Similarity Score
+![image](https://github.com/user-attachments/assets/261db48f-b1a4-481a-afcc-c429981373f7)
+
+Relationship between Sequence Length and the Average Similarity Score 
+![image](https://github.com/user-attachments/assets/0e20b094-fd1c-47ec-8be7-5f43b9191f20)
