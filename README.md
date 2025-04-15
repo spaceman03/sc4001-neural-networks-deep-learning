@@ -14,7 +14,7 @@ This repository provides a comparative analysis of deep learning architectures a
 | Chung Zhi Xuan | Protein Structure Prediction | @spaceman03 |
 | Yau Jun Hao | Sentiment Analysis |  |
 
-## Results
+## 📑 Results
 | Task | Model | Test Accuracy |
 |:---:|:---:|:---:|
 Sentiment Classification | DistilBert | 91.00%
