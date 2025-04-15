@@ -13,3 +13,10 @@ This repository provides a comparative analysis of deep learning architectures a
 | Brandon Jang Jin Tian | Protein Structure Prediction | @BrandonJang |
 | Chung Zhi Xuan | Protein Structure Prediction | @spaceman03 |
 | Yau Jun Hao | Sentiment Analysis |  |
+
+## Results
+| Task | Model | Test Accuracy |
+|---|:---:|---|
+Sentiment Classification | DistilGPT-2 | 88.4%
+Protein Structure Prediction (Q3) | Seq2Seq | 69.36%
+Protein Structure Prediction (Q8) | Seq2Seq | 56.90%
