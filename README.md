@@ -1,4 +1,4 @@
-# sc4001-neural-networks-deep-learning
+# Neural Networks & Deep Learning
 This repository contains the project completed for the **SC4001 Neural Networks and Deep Learning** module. It includes implementations of state-of-the-art deep learning techniques applied to real-world tasks in **sentiment analysis** and **protein secondary structure prediction**.
 
 ## Introduction
