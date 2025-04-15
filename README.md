@@ -9,14 +9,14 @@ This project explores advanced deep learning methodologies applied to two key do
 This repository provides a comparative analysis of deep learning architectures and highlights the robustness and versatility of Transformer models in handling complex sequence-based tasks across different domains.
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
-|---|:---:|---|
+|:---:|:---:|---|
 | Brandon Jang Jin Tian | Protein Structure Prediction | @BrandonJang |
 | Chung Zhi Xuan | Protein Structure Prediction | @spaceman03 |
 | Yau Jun Hao | Sentiment Analysis |  |
 
 ## Results
 | Task | Model | Test Accuracy |
-|---|:---:|:---:|
+|:---:|:---:|:---:|
 Sentiment Classification | DistilBert | 91.00%
 Sentiment Classification | DistilGPT-2 | 88.80%
 Sentiment Classification | TinyBert | 83.60%
