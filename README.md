@@ -16,7 +16,7 @@ This repository provides a comparative analysis of deep learning architectures a
 
 ## Results
 | Task | Model | Test Accuracy |
-|---|:---:|---|
-Sentiment Classification | DistilGPT-2 | 88.4%
+|---|:---:|:---:|
+Sentiment Classification | DistilGPT-2 | 88.40%
 Protein Structure Prediction (Q3) | Seq2Seq | 69.36%
 Protein Structure Prediction (Q8) | Seq2Seq | 56.90%
